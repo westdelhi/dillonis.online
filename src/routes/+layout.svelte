@@ -81,13 +81,13 @@
 			}
 
 			const shortcuts: Record<string, string> = {
-				ggh: 'https://github.com/dmmulroy',
-				gx: 'https://x.com/dillon_mulroy',
+				ggh: 'https://github.com/tusharxoxoxo',
+				gx: 'https://x.com/0tusharD',
 				gt: 'https://twitch.tv/dmmulroy', // Corrected
-				gyt: 'https://www.youtube.com/@dmmulroy',
-				gli: 'https://www.linkedin.com/in/dillon-mulroy',
+				gyt: 'https://www.youtube.com/@bobo5',
+				gli: 'https://www.linkedin.com/in/dahiya-tushar/',
 				gct: '/talks',
-				gcm: 'mailto:dillon.mulroy@gmail.com'
+				gcm: 'mailto:tushardzig@gmail.com'
 			};
 			const shortcutKeys = Object.keys(shortcuts);
 

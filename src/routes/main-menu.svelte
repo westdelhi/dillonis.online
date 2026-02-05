@@ -39,7 +39,7 @@
 			<a
 				id="github"
 				class="flex group/link flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="https://github.com/dmmulroy"
+				href="https://github.com/tusharxoxoxo"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
@@ -64,7 +64,7 @@
 			<a
 				id="twitter"
 				class="group/link flex flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="https://x.com/dillon_mulroy"
+				href="https://x.com/0tusharD"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
@@ -114,7 +114,7 @@
 			<a
 				id="youtube"
 				class="group/link flex flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="https://www.youtube.com/@dmmulroy"
+				href="https://www.youtube.com/@bobo5"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
@@ -139,7 +139,7 @@
 			<a
 				id="linkedin"
 				class="group/link flex flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="https://www.linkedin.com/in/dillon-mulroy"
+				href="https://www.linkedin.com/in/dahiya-tushar/"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
@@ -188,7 +188,7 @@
 			<a
 				id="email"
 				class="group/link flex flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="mailto:dillon.mulroy@gmail.com"
+				href="mailto:tushardzig@gmail.com"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
