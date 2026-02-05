@@ -6,7 +6,7 @@
 		LinkedinIcon,
 		MailPlusIcon,
 		MicVocalIcon,
-		TwitchIcon,
+		BookOpenIcon,
 		TwitterIcon,
 		YoutubeIcon
 	} from 'lucide-svelte';
@@ -16,7 +16,7 @@
 	const shortcuts = {
 		github: 'ggh',
 		twitter: 'gx',
-		twitch: 'gt',
+		blog: 'gb',
 		youtube: 'gyt',
 		linkedin: 'gli',
 		talks: 'gct',
@@ -87,18 +87,18 @@
 		</li>
 		<li class="group cursor-none hover:cursor-pointer">
 			<a
-				id="twitch"
+				id="blog"
 				class="group/link flex flex-row h-full w-full p-2 focus:outline-none focus:bg-[#313346] gap-2 items-center justify-between hover:bg-[#313346]"
-				href="https://twitch.tv/dmmulroy"
+				href="https://tushard.bearblog.dev/blog/"
 				target="_blank"
 			>
 				<span class="flex flex-row gap-4 items-center"
-					><TwitchIcon
-						class="group-hover:text-[#6441a5] group-focus/link:text-[#6441a5]"
-					/>Twitch</span
+					><BookOpenIcon
+						class="group-hover:text-[#f97316] group-focus/link:text-[#f97316]"
+					/>Blog</span
 				>
 				<span>
-					{#each shortcuts.twitch.split('') as char, i}
+					{#each shortcuts.blog.split('') as char, i}
 						{@const currentShortcutSequence = getCurrentShortcutSequence()}
 						<span
 							class={i < currentShortcutSequence.length &&
